@@ -1,8 +1,8 @@
 ---
 layout: profiles
 permalink: /people/
-title: people
-# description: members of the lab or group
+title: about
+# description: "Just another extremely online nerd who's interested in math, physics, computer science and anime."
 nav: true
 nav_order: 7
 
