@@ -1,0 +1,224 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Stylish Curriculum Vitae
+% LaTeX Template
+% Version 1.1 (September 10, 2021)
+%
+% This template originates from:
+% https://www.LaTeXTemplates.com
+%
+% Authors:
+% Stefano (https://www.kindoblue.nl)
+% Vel (vel@LaTeXTemplates.com)
+%
+% License:
+% CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\documentclass[a4paper, oneside, final]{scrartcl} % Paper options using the scrartcl class
+
+\usepackage{scrlayer-scrpage} % Provides headers and footers configuration
+\usepackage{titlesec} % Allows creating custom \section's
+\usepackage{marvosym} % Allows the use of symbols
+\usepackage{tabularx,colortbl} % Advanced table configurations
+\usepackage{ebgaramond} % Use the EB Garamond font
+\usepackage{microtype} % To enable letterspacing
+\usepackage{hyperref, enumitem, amsmath}
+\hypersetup{colorlinks=true, urlcolor=blue}
+
+\titleformat{\section}{\large\scshape\raggedright}{}{0em}{}[\titlerule] % Section formatting
+
+\pagestyle{scrheadings} % Print the headers and footers on all pages
+
+\addtolength{\voffset}{-0.5in} % Adjust the vertical offset - less whitespace at the top of the page
+\addtolength{\textheight}{3cm} % Adjust the text height - less whitespace at the bottom of the page
+
+\newcommand{\gray}{\rowcolor[gray]{.90}} % Custom highlighting for the work experience and education sections
+
+%----------------------------------------------------------------------------------------
+%	FOOTER SECTION
+%----------------------------------------------------------------------------------------
+
+\renewcommand{\headfont}{\normalfont\rmfamily\scshape} % Font settings for footer
+
+% \cofoot{
+% \fontsize{12.5}{17}\selectfont % Letter spacing and font size
+
+% \textls[150]{123 Broadway {\large\textperiodcentered} City {\large\textperiodcentered} Country 12345}\\ % Your mailing address
+% {\Large\Letter} \textls[150]{john@smith.com \ {\Large\Telefon} (000) 111-1111} % Your email address and phone number
+% }
+
+%----------------------------------------------------------------------------------------
+\definecolor{grey}{rgb}{0.62,0.62,0.62}
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+%	HEADER SECTION
+%----------------------------------------------------------------------------------------
+
+
+\begin{center}
+
+  {\fontsize{32}{32}\selectfont\scshape\textls[200]{Aaratrick Basu}} % Your name at the top
+  \vspace{0.25 cm}
+
+  {\fontsize{20}{20}\selectfont\scshape\textls[200]{Resum\'e}}
+  \vspace{0.5 cm} % Extra whitespace after the large name at the top
+
+  % \section{Objective}
+
+  % Becoming a successful mathematican working on problems in geometry and topology, \\
+  % and contributing to a sustainable future for humanity
+
+  %----------------------------------------------------------------------------------------
+  %	PERSONAL DATA
+  %----------------------------------------------------------------------------------------
+
+  \section{Personal Data}
+
+  \begin{tabularx}{0.97\linewidth}{>{\raggedleft\scshape}p{4cm}X}
+    % Address       & 60A/7/1 Banerjee Bagan, PO: Hridaypur, Barasat,                                                                                   \\
+    %               & Kolkata, West Bengal, India, PIN: 700 127                                                                                         \\
+    Date of Birth & \( {5}^{\text{th}} \) August, 2003                                                                                          \\
+    % Phone         & +91 9172452311                                                                                                                    \\
+    E-Mail        & \href{mailto:aaratrick.r2ab@gmail.com}{aaratrick.r2ab@gmail.com}, \, \href{mailto:ukg7ef@virginia.edu}{ukg7ef@virginia.edu} \\
+  \end{tabularx}
+
+  %----------------------------------------------------------------------------------------
+  %	EDUCATION
+  %----------------------------------------------------------------------------------------
+
+  \section{Education}
+
+  \begin{tabularx}{0.97\linewidth}{>{\raggedleft\scshape}p{2cm}X}
+    \gray Period     & \textbf{2021 --- Present}                                     \\
+    \gray Degree     & \textbf{Bachelor of Mathematics (Honours)}                    \\
+    \gray Score      & \textbf{2309/2500} (for first five semesters)                 \\
+    \gray Percentage & \textbf{92.36\%}                                              \\
+    \gray University & \textbf{Indian Statistical Institute} \hfill Bangalore, India \\
+    %& Extra information about degree
+  \end{tabularx}
+
+  \vspace{12pt}
+
+  \begin{tabularx}{0.97\linewidth}{>{\raggedleft\scshape}p{2cm}X}
+    \gray Period     & \textbf{2020 --- 2021}                                                    \\
+    \gray Degree     & \textbf{Class XII (Higher Secondary School)}                              \\
+    \gray Score      & \textbf{578/600}                                                          \\
+    \gray Percentage & \textbf{96.3\%}                                                           \\
+    \gray School     & \textbf{Aditya Academy Secondary, Kadambagachi} \hfill West Bengal, India \\
+    %& Extra information about degree
+  \end{tabularx}
+
+  \vspace{12pt}
+
+  \begin{tabularx}{0.97\linewidth}{>{\raggedleft\scshape}p{2cm}X}
+    \gray Period     & \textbf{2018 --- 2019}                                                    \\
+    \gray Degree     & \textbf{Class X (Secondary School)}                                       \\
+    \gray Score      & \textbf{482/500}                                                          \\
+    \gray Percentage & \textbf{96.4\%}                                                           \\
+    \gray School     & \textbf{Aditya Academy Secondary, Kadambagachi} \hfill West Bengal, India \\
+    %& Extra information about degree
+  \end{tabularx}
+
+
+  %----------------------------------------------------------------------------------------
+  %	PROJECTS
+  %----------------------------------------------------------------------------------------
+
+  \section{Projects}
+
+  \begin{tabularx}{0.97\linewidth}{>{\raggedleft\scshape}p{2cm}X}
+    \gray Period     & \textbf{January - April 2024}                                         \\
+    \gray Organisers & \textbf{Prof. Charanya Ravi, Prof. Jishnu Biswas, Prof. Manish Kumar} \\
+    \gray Program    & \textbf{Reading Seminar} \hfill ISI Bangalore                         \\
+    % \gray Organiser & \textbf{IASc, INSA, NASI}                          \\
+    \gray Topic      & \textbf{Intersection homology}                                        \\
+  \end{tabularx}
+
+  \vspace{12pt}
+
+  \begin{tabularx}{0.97\linewidth}{>{\raggedleft\scshape}p{2cm}X}
+    \gray Period  & \textbf{May - July 2023}                           \\
+    \gray Guide   & \textbf{Prof. Subhojoy Gupta}\hfill IISc Bangalore \\
+    \gray Program & \textbf{Summer Research Fellowship Program}        \\
+    % \gray Organiser & \textbf{IASc, INSA, NASI}                          \\
+    \gray Topic   & \textbf{Geometry and Topology of Surfaces}         \\
+  \end{tabularx}
+
+  \vspace{12pt}
+
+  \begin{tabularx}{0.97\linewidth}{>{\raggedleft\scshape}p{2cm}X}
+    \gray Period    & \textbf{June - July 2023}                                             \\
+    \gray Organiser & \textbf{Prof. Apoorva Khare, Prof. R Venkatesh} \hfill IISc Bangalore \\
+    \gray Program   & \textbf{Advanced Instruction School}                                  \\
+    \gray Topic     & \textbf{Lie Groups and Lie Algebras}                                  \\
+  \end{tabularx}
+
+  \vspace{12pt}
+
+  \begin{tabularx}{0.97\linewidth}{>{\raggedleft\scshape}p{2cm}X}
+    \gray Period & \textbf{December 2022}                            \\
+    \gray Guide  & \textbf{Prof. Maneesh Thakur}\hfill ISI Bangalore \\
+    \gray Topic  & \textbf{Geometric Algebra}                        \\
+    % , based on the book \textit{Geometric Algebra} by Emil Artin \\
+  \end{tabularx}
+
+\end{center}
+% \pagebreak
+
+%----------------------------------------------------------------------------------------
+%	SCHOLARSHIPS AND ADDITIONAL INFO
+%----------------------------------------------------------------------------------------
+
+\section{Scholarships and Awards}
+
+\begin{tabular}{ @{} >{\bfseries}l @{\hspace{6ex}} l }
+  % 2024 & Funded by fellowship 
+  2022 & Summer Research Fellowship (Indian Academy of Sciences) \\
+  2019 & KVPY SA Fellow                                          \\
+  2019 & JBNSTS Junior Scholar                                   \\
+\end{tabular}
+
+%----------------------------------------------------------------------------------------
+%	SKILLS
+%----------------------------------------------------------------------------------------
+
+\section{Skills}
+
+\begin{tabular}{ @{} >{\bfseries}l @{\hspace{6ex}} l }
+  Languages             & English (near native), Hindi (fluent), Bengali (native) \\
+  Programming Languages & Python, LaTeX, R, Markdown, JavaScript, Bash            \\
+\end{tabular}
+
+\section{Talks given}
+
+\begin{enumerate}[label = $\bullet$]
+  \item A proof of the Dehn-Nielsen-Baer theorem using geometric group theory \\
+        \textcolor{grey}{Presentation at end of project with Prof. Subhojoy Gupta, IISc Bangalore, July 2023}
+  \item Hyperbolic Geometry, Hyperbolic Surfaces and Fuchsian Groups \\
+        \textcolor{grey}{Math Club student talk, ISI Bangalore, August 2023}
+  \item \( L^2- \)cohomology and intersection cohomology \\
+        \textcolor{grey}{Intersection Homology reading seminar, ISI Bangalore, February 2024}
+  \item What is \( ?(x) \)? \\
+        \textcolor{grey}{Math Club ``What is \dots ?'' seminar, ISI Bangalore, March 2024}
+
+  \item The Riemann-Hurwitz formula, orbifolds and Hurwitz's automorphism theorem\\
+        \textcolor{grey}{Part of Complex Analysis course, ISI Bangalore, March 2024}
+\end{enumerate}
+
+
+\section{Volunteer Work}
+
+\begin{enumerate}[label = $\bullet$]
+  \item Involved in organising talks and maintaining the \href{https://mathclubisib.github.io}{website} of student run \textit{Math Club} at ISI Bangalore.
+  \item Contributed to the \href{https://www.limitisi.in}{website} of math contest \textit{LIMIT} run by students of ISI Bangalore.
+  \item LaTeXed notes of course on Real Analysis of Several Variables, available \href{https://awnathan1893.github.io/Analysis3_Notes/}{here}.
+  \item Planned and organised ``What is \dots ?'' \href{https://mathclubisib.github.io/seminars/what_is/}{seminar} with other Math Club members at ISI Bangalore.
+
+\end{enumerate}
+
+%----------------------------------------------------------------------------------------
+
+\end{document}
