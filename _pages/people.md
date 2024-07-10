@@ -4,7 +4,7 @@ permalink: /people/
 title: about
 # description: "Just another extremely online nerd who's interested in math, physics, computer science and anime."
 nav: true
-nav_order: 7
+nav_order: 1
 
 profiles:
   # if you want to include more than one profile, just replicate the following block

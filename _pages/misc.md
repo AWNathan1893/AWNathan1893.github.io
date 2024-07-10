@@ -13,9 +13,10 @@ children:
   # - title: divider
   # - title: blog
     # permalink: /blog/
-  - title: about
-    permalink: /profiles/
-  - title: divider
   - title: quotes
+    permalink: /quotes/
+  - title: divider
+  - title: software
+    permalink: /software/
   
 ---
