@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Aaratrick Basu",
-    "label": "PhD student in mathematics",
+    // "label": "PhD student in mathematics",
     "image": "",
     "email": "ukg7ef@virginia.edu",
     "url": "https://awnathan1893.github.io/",
@@ -38,9 +38,19 @@
   ],
   "awards": [
     {
+      "title": "Summer Research Fellow",
+      "date": "2022",
+      "awarder": "Indian Academy of Sciences"
+    },
+    {
       "title": "KVPY SA Fellow",
       "date": "2019",
-      "awarder": "Indian Institute of Science"
+      "awarder": "DST, Govt. of India"
+    },
+    {
+      "title": "JBNSTS Junior Scholar",
+      "date": "2019",
+      "awarder": "JBNSTS, Kolkata"
     }
   ],
   "certificates": [
