@@ -1,7 +1,8 @@
 ---
 layout: post
 title: quotes
-permalink: /
+permalink: /quotes/
+nav: false
 # subtitle: Math grad student at University of Virginia
 ---
 
