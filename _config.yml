@@ -130,7 +130,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: This doesn't seem right # blog_name will be displayed in your blog page
-blog_description: Some of my thoughts on (mostly) math. 
+blog_description: Some of my thoughts on math. 
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
