@@ -13,10 +13,15 @@ children:
   # - title: divider
   # - title: blog
     # permalink: /blog/
+  - title: notes
+    permalink: /misc/notes/
+  - title: divider
   - title: quotes
-    permalink: /quotes/
+    permalink: /misc/quotes/
   - title: divider
   - title: software
-    permalink: /software/
-  
+    permalink: /misc/software/
+  - title: divider
+  - title: jokes
+    permalink: /misc/jokes
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: software
-permalink: /software/
+permalink: /misc/software/
 nav: false
 # subtitle: Math grad student at University of Virginia
 ---

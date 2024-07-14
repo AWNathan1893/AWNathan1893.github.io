@@ -1,8 +1,8 @@
 ---
 layout: profiles
-permalink: /people/
+permalink: /about/
 title: about
-# description: "Just another extremely online nerd who's interested in math, physics, computer science and anime."
+description: "another extremely online nerd who's interested in math, physics and anime."
 nav: true
 nav_order: 1
 
@@ -14,7 +14,7 @@ profiles:
     content: about_me.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      Aaratrick Basu
+      Me (ISI Bangalore, 2023)
   # - align: left
   #   image: prof_pic.jpg
   #   content: about_einstein.md

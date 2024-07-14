@@ -4,6 +4,7 @@ title: Hello World!
 date: 2024-07-10
 description: Test.
 categories: sample-posts
+giscus_comments: true
 # thumbnail: assets/img/9.jpg
 ---
 
