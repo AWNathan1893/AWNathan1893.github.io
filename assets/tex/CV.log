@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex 2024.5.29)  11 JUL 2024 01:15
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex 2024.5.29)  14 JUL 2024 17:55
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -662,7 +662,7 @@ LaTeX Font Info:    Font shape `OT1/EBGaramond-OsF/m/n' will be
 LaTeX Font Info:    Font shape `OT1/EBGaramond-OsF/m/sc' will be
 (Font)              scaled to size 12.0pt on input line 78.
 
-Overfull \hbox (0.6662pt too wide) in paragraph at lines 110--110
+Overfull \hbox (0.6662pt too wide) in paragraph at lines 112--112
  []|\OT1/EBGaramond-OsF/m/sc/10.95 (-20) Percentage|
  []
 
@@ -670,7 +670,7 @@ Overfull \hbox (0.6662pt too wide) in paragraph at lines 110--110
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texmf-dist/fonts/enc/dvips/ebgaramond/ebg_4a6c3c.enc}{/usr/share/texmf-dist/fonts/enc/dvips/ebgaramond/ebg_qn2lct.enc}]
 LaTeX Font Info:    Font shape `OT1/EBGaramond-OsF/m/it' will be
-(Font)              scaled to size 10.95pt on input line 211.
+(Font)              scaled to size 10.95pt on input line 219.
  [2{/usr/share/texmf-dist/fonts/enc/dvips/ebgaramond/ebg_ne3tkd.enc}] (./CV.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
@@ -685,18 +685,18 @@ Package rerunfilecheck Info: File `CV.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 17421 strings out of 476076
- 329497 string characters out of 5793775
- 1962187 words of memory out of 5000000
- 39230 multiletter control sequences out of 15000+600000
+ 17424 strings out of 476076
+ 329518 string characters out of 5793775
+ 1963187 words of memory out of 5000000
+ 39231 multiletter control sequences out of 15000+600000
  588673 words of font info for 133 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  108i,19n,107p,10968b,607s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf-dist/fonts/type1/public/ebgaramond/EBGaramond-Bold.pfb></usr/share/texmf-dist/fonts/type1/public/ebgaramond/EBGaramond-Italic.pfb></usr/share/texmf-dist/fonts/type1/public/ebgaramond/EBGaramond-Regular.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on CV.pdf (2 pages, 118914 bytes).
+Output written on CV.pdf (2 pages, 119640 bytes).
 PDF statistics:
- 117 PDF objects out of 1000 (max. 8388607)
- 91 compressed objects within 1 object stream
- 20 named destinations out of 1000 (max. 500000)
- 46137 words of extra memory for PDF output out of 51595 (max. 10000000)
+ 122 PDF objects out of 1000 (max. 8388607)
+ 96 compressed objects within 1 object stream
+ 22 named destinations out of 1000 (max. 500000)
+ 46145 words of extra memory for PDF output out of 51595 (max. 10000000)
 
