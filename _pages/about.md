@@ -8,19 +8,17 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  # more_info: >
-  #   <p>555 your office number</p>
-  #   <p>123 your address street</p>
-  #   <p>Charlottesville, VA 22904</p>
   more_info: >
-      <p>Charlottesville, VA 22904</p>
+    <p>121 Kerchof Hall</p>
+    <p>University of Virginia</p>
+    <p>Charlottesville, VA 22904</p>
 
 news: true # includes a list of news items
 # selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-### Hi!
+### Hello!
 
 You've reached my personal page. I will be a graduate student in mathematics at the University of Virginia, Charlottesville starting Fall 2024. My main interests lie at the intersection of geometry and topology, particularly the group theoretic aspects. A little more about me can be found [here](/about "about me"). You can find my blog _This doesn't seem right_ over [here](/blog "my blog"). The picture on the right is me standing on the rooftop of a building at ISI Bangalore in December 2023.
 

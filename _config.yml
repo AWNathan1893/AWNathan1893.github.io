@@ -83,7 +83,7 @@ kaggle_id: # your kaggle id
 keybase_username: # your keybase user name
 lastfm_id: # your lastfm id
 lattes_id: # your ID on Lattes (Brazilian Lattes CV)
-linkedin_username: Aaratrick Basu # your LinkedIn user name
+linkedin_username: aaratrickbasu # your LinkedIn user name
 mastodon_username: mathstodon.xyz/@AWNathan  # your mastodon instance+username in the format instance.tld/@username
 medium_username: # your Medium username
 orcid_id: # your ORCID ID
@@ -130,7 +130,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: This doesn't seem right # blog_name will be displayed in your blog page
-blog_description: Some of my thoughts on math. 
+blog_description: Some of my thoughts on (mostly) math. 
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
