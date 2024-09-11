@@ -20,7 +20,7 @@ social: true # includes social icons at the bottom of the page
 
 ### Hello!
 
-You've reached my personal page. I will be a graduate student in mathematics at the University of Virginia, Charlottesville starting Fall 2024. My main interests lie at the intersection of geometry and topology, particularly the group theoretic aspects. A little more about me can be found [here](/about "about me"). You can find my blog _This doesn't seem right_ over [here](/blog "my blog"). The picture on the right is me standing on the rooftop of a building at ISI Bangalore in December 2023.
+You've reached my personal page. I'm a first year PhD student at the University of Virginia, Charlottesville. My main interests lie at the intersection of geometry and topology, particularly the group theoretic aspects. A little more about me can be found [here](/about "about me"). You can find my blog _This doesn't seem right_ over [here](/blog "my blog"). The picture on the right is me standing on the rooftop of a building at ISI Bangalore in December 2023.
 
 > What's the difference between a literalist and a kleptomaniac? One takes things literally, the other takes things, literally!
 
