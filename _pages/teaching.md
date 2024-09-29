@@ -1,9 +1,12 @@
 ---
-layout: post
+layout: page
 title: teaching
-permalink: /teaching
-nav: false
-# subtitle: Math grad student at University of Virginia
+permalink: /teaching/
+nav: true
+nav_order: 2
+description: A summary of my teaching experience.
 ---
 
-Hi there! This site is still under construction, and this page will contain some quotes and excerpts that I like a lot.
+### Fall 2024
+
+Teaching assistant for MATH 3310 Basic Real Analysis, taught by [Prof. Evangelia Gazaki](https://sites.google.com/view/valiagazakihomepage/home) at the University of Virginia.

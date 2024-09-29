@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: software
 permalink: /misc/software/
 nav: false

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: quotes
 permalink: /misc/quotes/
 nav: false

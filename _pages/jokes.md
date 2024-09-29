@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: jokes 
 permalink: /misc/jokes/
 nav: false
