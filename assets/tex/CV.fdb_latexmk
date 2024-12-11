@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1733866131.38845 "/Users/awnathan/AWNathan1893.github.io/assets/tex/CV.tex" "CV.pdf" "CV" 1733866132.41587 0
-  "/Users/awnathan/AWNathan1893.github.io/assets/tex/CV.tex" 1733866131.29147 8547 82eeb3e7726aa8db96d94adb0a7b75e6 ""
+["pdflatex"] 1733927289.12492 "/Users/awnathan/AWNathan1893.github.io/assets/tex/CV.tex" "CV.pdf" "CV" 1733927290.12004 0
+  "/Users/awnathan/AWNathan1893.github.io/assets/tex/CV.tex" 1733927289.03457 8513 56ecfc817f088d068bbeefb31835068e ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/ebgaramond/ebg_4a6c3c.enc" 1679344195 3336 191cbd2f920d112f40b01ff8dc63d216 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/ebgaramond/ebg_ne3tkd.enc" 1679344195 2969 d0ec9694be18bdfa11e2a0f61a62c0cc ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/ebgaramond/ebg_qn2lct.enc" 1679344195 2945 f4c9aa1a657d71d9b432a32e633f5416 ""
@@ -118,9 +118,9 @@
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1730600593.54962 5468981 770c3df6f0eda0eef058ad5fc4919a77 ""
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1726406589 8221409 63f771fa21a702e9e718467f1f215aec ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
-  "CV.aux" 1733866132.33686 2783 7ee1e50f119f1bae5a38aef78e94b260 "pdflatex"
-  "CV.out" 1733866132.17183 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "CV.tex" 1733866131.29147 8547 82eeb3e7726aa8db96d94adb0a7b75e6 ""
+  "CV.aux" 1733927290.04309 2783 04d511af032934886283825e79d697fb "pdflatex"
+  "CV.out" 1733927289.87982 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "CV.tex" 1733927289.03457 8513 56ecfc817f088d068bbeefb31835068e ""
   (generated)
   "CV.aux"
   "CV.log"
