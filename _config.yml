@@ -636,6 +636,6 @@ jsonresume:
   # - projects
   # - volunteer
   # - certificates
-  # - skills
+  - teaching
   # - interests
   # - references
