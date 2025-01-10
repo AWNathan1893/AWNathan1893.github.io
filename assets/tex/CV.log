@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex 2024.12.6)  18 DEC 2024 01:12
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex 2024.12.6)  9 JAN 2025 21:10
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -665,7 +665,7 @@ LaTeX Font Info:    Font shape `OT1/EBGaramond-OsF/m/sc' will be
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texmf-dist/fonts/enc/dvips/ebgaramond/ebg_4a6c3c.enc}{/usr/share/texmf-dist/fonts/enc/dvips/ebgaramond/ebg_qn2lct.enc}]
 LaTeX Font Info:    Font shape `OT1/EBGaramond-OsF/m/it' will be
-(Font)              scaled to size 10.95pt on input line 177.
+(Font)              scaled to size 10.95pt on input line 178.
  [2{/usr/share/texmf-dist/fonts/enc/dvips/ebgaramond/ebg_ne3tkd.enc}] (./CV.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
@@ -688,7 +688,7 @@ Here is how much of TeX's memory you used:
  14 hyphenation exceptions out of 8191
  108i,19n,107p,10968b,629s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf-dist/fonts/type1/public/ebgaramond/EBGaramond-Bold.pfb></usr/share/texmf-dist/fonts/type1/public/ebgaramond/EBGaramond-Italic.pfb></usr/share/texmf-dist/fonts/type1/public/ebgaramond/EBGaramond-Regular.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on CV.pdf (2 pages, 110085 bytes).
+Output written on CV.pdf (2 pages, 111218 bytes).
 PDF statistics:
  117 PDF objects out of 1000 (max. 8388607)
  91 compressed objects within 1 object stream
