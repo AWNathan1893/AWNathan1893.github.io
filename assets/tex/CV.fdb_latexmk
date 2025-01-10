@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1734502336.77287 "/home/awnathan/Projects/PersonalPage/AWNathan1893.github.io/assets/tex/CV.tex" "CV.pdf" "CV" 1734502342.39004 0
-  "/home/awnathan/Projects/PersonalPage/AWNathan1893.github.io/assets/tex/CV.tex" 1734502336.11327 8511 3f8484960dff8ce1f07ab0d8d2241263 ""
+["pdflatex"] 1736475015.86649 "/home/awnathan/Projects/PersonalPage/AWNathan1893.github.io/assets/tex/CV.tex" "CV.pdf" "CV" 1736475017.68757 0
+  "/home/awnathan/Projects/PersonalPage/AWNathan1893.github.io/assets/tex/CV.tex" 1736475015.61879 8590 709754e47bc385e930cbd09e24b8b6fd ""
   "/usr/share/texmf-dist/fonts/enc/dvips/ebgaramond/ebg_4a6c3c.enc" 1727349926 3336 191cbd2f920d112f40b01ff8dc63d216 ""
   "/usr/share/texmf-dist/fonts/enc/dvips/ebgaramond/ebg_ne3tkd.enc" 1727349926 2969 d0ec9694be18bdfa11e2a0f61a62c0cc ""
   "/usr/share/texmf-dist/fonts/enc/dvips/ebgaramond/ebg_qn2lct.enc" 1727349926 2945 f4c9aa1a657d71d9b432a32e633f5416 ""
@@ -117,9 +117,9 @@
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1727349926 41588 b43d3e860a4f94167ee1e725ff526a72 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1733481846.6063 5308702 9021abff5135217c864e7e2716d12193 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1733481815 7112985 f08338dd9e01acf4564ff8b7b7af43fb ""
-  "CV.aux" 1734502341.84003 2783 04d511af032934886283825e79d697fb "pdflatex"
-  "CV.out" 1734502340.88335 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "CV.tex" 1734502336.11327 8511 3f8484960dff8ce1f07ab0d8d2241263 ""
+  "CV.aux" 1736475017.57883 2783 1a7104858979d65ab22547edabaacc1a "pdflatex"
+  "CV.out" 1736475017.3655 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "CV.tex" 1736475015.61879 8590 709754e47bc385e930cbd09e24b8b6fd ""
   (generated)
   "CV.aux"
   "CV.log"
