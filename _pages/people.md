@@ -14,7 +14,7 @@ profiles:
     content: about_me.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      Me (ISI Bangalore, 2023)
+      Me (beside "The Great Wave off Kanagawa")
   # - align: left
   #   image: prof_pic.jpg
   #   content: about_einstein.md
