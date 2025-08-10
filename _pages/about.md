@@ -20,7 +20,7 @@ social: true # includes social icons at the bottom of the page
 
 ### Hello!
 
-You've reached my personal page. I'm a first year PhD student at the University of Virginia, Charlottesville. My mathematical interests lie at the intersection of geometry and topology, particularly the group theoretic aspects. A little more about me can be found [here](/about "about me"). You can find my blog _This doesn't seem right_ over [here](/blog "my blog"). The picture on the right is me sitting on the bench at Niche 11, an exhibit at the Chazen Museum of Art at University of Wisconsin, Madison, photo credit goes to [Sagnik Jana](https://sites.google.com/vols.utk.edu/sagnikjana).
+You've reached my personal page. I'm a second year PhD student at the University of Virginia, Charlottesville, and am grateful to be advised by [Prof. Thomas Koberda](https://sites.google.com/view/koberdat) and [Prof. Sara Maloni](https://sites.google.com/view/sara-maloni). My mathematical interests lie at the intersection of geometry and topology, particularly the group theoretic aspects. A little more about me can be found [here](/about "about me"). You can find my blog _This doesn't seem right_ over [here](/blog "my blog"). The picture on the right (the top on mobile devices) is me sitting on the bench at Niche 11, an exhibit at the Chazen Museum of Art at University of Wisconsin, Madison, photo credit goes to [Sagnik Jana](https://sites.google.com/vols.utk.edu/sagnikjana).
 
 > What's the difference between a literalist and a kleptomaniac? One takes things literally, the other takes things, literally!
 
